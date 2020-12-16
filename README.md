@@ -14,7 +14,7 @@ The project contains the Jupyter notebook, the `requirements.txt` and the readme
 
 ## Results
 
-The results are summarized in Jupyter notebook. The according blog post is found [here](http://www.google.de).
+The results are summarized in Jupyter notebook. The according blog post is found [here](https://medium.com/@marcus_30351/a-closer-look-at-airbnb-in-seattle-24784d0d84b9).
 
 ## Dependencies
 
